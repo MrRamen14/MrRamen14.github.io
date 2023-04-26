@@ -1,0 +1,34 @@
+body {
+    font-family:Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: bisque;
+    color: white;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+img{
+    max-width: 100%;
+}
+
+footer {
+    background-color: magenta;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
